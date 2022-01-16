@@ -1,5 +1,3 @@
-## Terraform Tutorial
-
 ## Build Infrastructure GCP Example
 - The sample configuration provisions a VPN Network.
 
