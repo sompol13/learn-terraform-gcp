@@ -17,3 +17,11 @@
 
 ## Destroy Infrastructure
 - The terraform destroy command terminates resources managed by your Terraform project.
+
+## Define Input Variables
+
+*Define input variables*
+- Make terraform dynamic configurations using variables.tf
+
+*Use variables in configuration*
+- Variables are referenced with the var. prefix.

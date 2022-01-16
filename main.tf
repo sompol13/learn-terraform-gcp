@@ -20,11 +20,11 @@ terraform {
  * NOTE: You can define multiple provider blocks in a Terraform configuration.
  */
 provider "google" {
-  credentials = file("~/keys/gcp-terraform-default-service-account.json")
+  credentials = file(var.credentials_file)
 
-  project = "terraform-338309"
-  region  = "us-central1"
-  zone    = "us-central1-c"
+  project = var.project
+  region  = var.region
+  zone    = var.zone
 }
 
 /**
