@@ -68,3 +68,4 @@ resource "google_compute_instance" "vm_instance" {
 # terraform validate - validate the configuraton
 # terraform apply - Create infrastructure
 # terraform show - Inspect state
+# terraform destroy - Terminates resources
