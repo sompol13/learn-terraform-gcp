@@ -26,3 +26,12 @@
 
 *Assign values to your variables*
 - You can populate variables using values from a file. Terraform automatically loads files called terraform.tfvars or matching *.auto.tfvars in the working directory when running operations.
+
+## Query Data with Output Variables
+- Use output values to organize data to be easily queried and displayed to the Terraform user.
+
+*Define outputs*
+Define an output for the IP address of the instance that Terraform provisions.
+
+*Inspect outputs*
+Query the outputs with the terraform output command.

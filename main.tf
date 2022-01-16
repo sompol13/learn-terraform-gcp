@@ -69,3 +69,5 @@ resource "google_compute_instance" "vm_instance" {
 # terraform apply - Create infrastructure
 # terraform show - Inspect state
 # terraform destroy - Terminates resources
+# terraform plan - Show execution plan
+# terraform output - Show output values
