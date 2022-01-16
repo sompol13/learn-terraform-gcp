@@ -25,3 +25,6 @@
 
 *Use variables in configuration*
 - Variables are referenced with the var. prefix.
+
+*Assign values to your variables*
+- You can populate variables using values from a file. Terraform automatically loads files called terraform.tfvars or matching *.auto.tfvars in the working directory when running operations.
