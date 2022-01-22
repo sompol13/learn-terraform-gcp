@@ -1,6 +1,8 @@
 ## Learn - Build Infrastructure GCP Example
 - The sample configuration provisions a VPN Network.
 
+<img width="1580" alt="gcp" src="https://user-images.githubusercontent.com/33342822/150630615-a75cb7c9-a9f3-4d7b-b186-8b2d5062af21.png">
+
 ## Change Infrastructure
 
 *Create a new resource*
