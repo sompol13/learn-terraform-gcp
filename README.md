@@ -1,4 +1,4 @@
-## Build Infrastructure GCP Example
+## Learn Terraform - Build Infrastructure GCP Example
 - The sample configuration provisions a VPN Network.
 
 ## Change Infrastructure
