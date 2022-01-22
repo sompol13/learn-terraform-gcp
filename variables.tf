@@ -6,9 +6,9 @@ variable "project" { }
 variable "credentials_file" { }
 
 variable "region" {
-  default = "us-central1"
+  default = "ap-southeast-1"
 }
 
 variable "zone" {
-  default = "us-central1-c"
+  default = "ap-southeast-1-c"
 }
